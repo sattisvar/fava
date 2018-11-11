@@ -1,0 +1,1 @@
+web: fava couple.ledger
